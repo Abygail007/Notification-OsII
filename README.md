@@ -34,10 +34,6 @@ Ce dépôt contient l'extension packagée au format `.7z`.
 
 Cette extension est protégée par mot de passe. Le mot de passe d'extraction est requis pour accéder au contenu.
 
-## 📄 Code source
-
-Le code source est disponible dans un dépôt séparé : [Notification-OsII-source](https://github.com/Abygail007/Notification-OsII-source)
-
 ## 📝 Licence
 
 Usage privé
